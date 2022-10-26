@@ -1,0 +1,13 @@
+﻿  PR4.1.cpp
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(4,18): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(7,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(10,2): error C2065: 'cout': undeclared identifier
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(10,18): error C2065: 'cin': undeclared identifier
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(19,2): error C2065: 'cout': undeclared identifier
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(19,15): error C2065: 'endl': undeclared identifier
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(26,2): error C2065: 'cout': undeclared identifier
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(26,15): error C2065: 'endl': undeclared identifier
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(32,2): error C2065: 'cout': undeclared identifier
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(32,15): error C2065: 'endl': undeclared identifier
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(38,2): error C2065: 'cout': undeclared identifier
+C:\Users\user\Desktop\лаби 1 курс\PR4.1\PR4.1\PR4.1.cpp(38,15): error C2065: 'endl': undeclared identifier
